@@ -1,2 +1,7 @@
-# Raider3.5-Fixed
-A 3.5 Game Server that allows you to host
+# Raider (3.5)
+
+- Fortnite 3.5 Custom Gameserver
+
+## - Discord Server RAIDER
+
+- Join [here](https://discord.gg/nCSFHtRMUs) to ask some questions about setting up Raider.
